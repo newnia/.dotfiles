@@ -118,3 +118,6 @@ fi
 source "$HOME/.cargo/env"
 
 alias apt='sudo apt'
+alias umbc='ssh j182@gl.umbc.edu'
+alias c202='cd ~/Dropbox/UMBC/Spring\ 2021/CMSC\ 202'
+alias c341='cd ~/Dropbox/UMBC/Fall\ 2021/CMSC341'
